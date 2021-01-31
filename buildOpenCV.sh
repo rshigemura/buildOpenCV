@@ -2,7 +2,7 @@
 # License: MIT. See license file in root directory
 # Copyright(c) JetsonHacks (2017-2019)
 
-OPENCV_VERSION=4.1.1
+OPENCV_VERSION=3.4.3
 # Jetson Nano
 ARCH_BIN=5.3
 INSTALL_DIR=/usr/local
